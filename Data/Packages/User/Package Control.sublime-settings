@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Bootstrap 3 Autocomplete",
+		"CleanCSS",
+		"Emmet",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
