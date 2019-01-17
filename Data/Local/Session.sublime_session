@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/xampp/htdocs/LTOOP",
 		"/E/www/tools/update_wp_db_after_change_server",
 		"/C/Users/ThanhLD/Desktop/BNGW/2017-12-06/bt1",
 		"/C/Users/ThanhLD/Desktop/demo/bt2",
@@ -218,6 +219,23 @@
 			},
 			"buffers":
 			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/xampp/htdocs/LTOOP/index.php",
+					"settings":
+					{
+						"buffer_size": 176,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -226,7 +244,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 490.0,
+				"height": 392.0,
 				"last_filter": "Package Control: ",
 				"selected_items":
 				[
@@ -243,7 +261,7 @@
 						"Install Package Control"
 					]
 				],
-				"width": 609.0
+				"width": 524.0
 			},
 			"console":
 			{
@@ -261,6 +279,10 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/xampp/htdocs/LTOOP"
+			],
 			"file_history":
 			[
 				"/D/Sublime_Text_Build_3126_x64/Data/Packages/User/Emmet.sublime-settings",
@@ -302,11 +324,74 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\xampp\\htdocs\\LTOOP"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/xampp/htdocs/LTOOP/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 176,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										176,
+										176
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -346,7 +431,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,700,861,148,1519",
+			"position": "0,2,1,-32000,-32000,-1,-1,1035,-8,4,982",
 			"project": "",
 			"replace":
 			{
@@ -388,7 +473,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 245.0,
+			"side_bar_width": 94.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
